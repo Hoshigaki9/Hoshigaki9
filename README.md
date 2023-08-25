@@ -36,7 +36,7 @@
  <summary><b>Look At Here</b></summary>
  
 ### 🌐 Connect With Me:
-[![Instagram](https://instagram.com/hoshigaki09?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)
+[![Instagram](https://instagram.com/hoshigaki09?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)]
 </details>
 
 <details>
