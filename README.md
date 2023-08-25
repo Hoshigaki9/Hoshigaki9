@@ -36,8 +36,7 @@
  <summary><b>Look At Here</b></summary>
  
 ### 🌐 Connect With Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexander.s.kennedy)
-[![Instagram](https://instagram.com/hoshigaki09?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hoshigaki09?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)
 </details>
 
 <details>
